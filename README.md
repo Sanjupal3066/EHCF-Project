@@ -6,7 +6,7 @@ An Android App to Encrypt/Decrypt and Hashing of text. Various Encryption and Ha
 2. Triple Data Encryption Standard
 3. Caesar Cipher
 4. Vigenere Cipher
-5. Play Fai
+5. Play Fair
 ## Hashing Methods Supported:
 1. MD5
 2. SHA-256
